@@ -184,3 +184,13 @@ int main() {
     }
     return 0;
 }
+
+// #include <stdio.h>
+// int main(void){
+//         #define Degree 178;
+//         #define Binkers "%d degree celsius", TemperatureLameric;
+//         int TemperatureLameric= 36;
+//         int TemperatureDuNigeria= TemperatureLameric+Degree;
+//         printf("The temperature in your location is %d degree celsius. Nigeria:", TemperatureDuNigeria);
+//     return 0;
+// }
